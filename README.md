@@ -1,2 +1,2 @@
 # docker-101
-<b>docker compose up</b>
+ <b>CMD: docker compose up</b>
